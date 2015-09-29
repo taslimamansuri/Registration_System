@@ -1,0 +1,21 @@
+body  {
+	background-color:ivory;
+	font-family:Arial verdana sans-sarif;
+		}
+table{
+	width:350px;
+	height:300px;
+	font-family: Arial Verdana sans-sarif;
+	color:gray;
+	border:0;
+	background-color: #A5CC70;
+	border:10px solid #f4f4f4;
+	}
+#wrapper
+{
+	
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:auto;
+	
+}
